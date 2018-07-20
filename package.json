@@ -1,0 +1,14 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^28.0.0",
+    "moment": "^2.22.2",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-28.0.0.tar.gz"
+  },
+  "name": "react-native-movies",
+  "version": "1.0.0",
+  "author": "Nick Cook <nick@nickwcook.com>",
+  "license": "MIT"
+}
