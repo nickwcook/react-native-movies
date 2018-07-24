@@ -4,11 +4,24 @@
   "dependencies": {
     "expo": "^28.0.0",
     "moment": "^2.22.2",
-    "react": "16.3.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-28.0.0.tar.gz"
+    "react": "^16.4.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-28.0.0.tar.gz",
+    "react-navigation": "git+https://github.com/react-community/react-navigation.git"
   },
   "name": "react-native-movies",
   "version": "1.0.0",
   "author": "Nick Cook <nick@nickwcook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickwcook/react-native-movies.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nickwcook/react-native-movies/issues"
+  },
+  "homepage": "https://github.com/nickwcook/react-native-movies#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
 }
